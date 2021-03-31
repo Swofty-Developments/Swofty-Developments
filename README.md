@@ -4,16 +4,16 @@
 <h5>Previous Work
 <h6> - SkyBlock Sandbox - Current
 <h6> - (PRIVATE) - Current
-<h6> - Mythe Network - Server closed, resigned February
-<h6> - Unknown SMP - Server closed, resigned January
-<h6> - Aimless Server - Resigned December
-<h6> - Sunset SMP - Resigned December
-<h6> - Legend Server - Resigned October
-<h6> - Suits 2x (Rust) - Resigned August
-<h6> - Hytech ORG - Server closed, resigned August
-<h6> - Maple - Resigned June
-<h6> - EnviousMC - Resigned April
-<h6> - BAAAAKAAAA - Resigned March
+<h6> - Mythe Network - Server closed, resigned February 2021
+<h6> - Unknown SMP - Server closed, resigned January 2021
+<h6> - Aimless Server - Resigned December 2020
+<h6> - Sunset SMP - Resigned December 2020
+<h6> - Legend Server - Resigned October 2020
+<h6> - Suits 2x (Rust) - Resigned August, 2020
+<h6> - Maple - Resigned June, 2020
+<h6> - EnviousMC - Resigned April, 2020
+<h6> - BAAAAKAAAA - Resigned December, 2019
+<h6> - Hytech ORG - Server closed, resigned August 2019
 <h6> - (That's as far back as I can remember)
 <h4 align="center">Other – <a href='http://login.swofty.net' target="_blank">SwoftSystem Login</a><h4>
     
