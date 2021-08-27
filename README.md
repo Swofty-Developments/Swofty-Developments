@@ -2,7 +2,7 @@
   <h1>Hey. I am Swofty,</h1>
 <h4>I mainly work for private orders but I'm always open to cooperation, I also do <a href="https://status.swofty.net">Server Hosting.
 <h5>Previous Work
-<h6> - SkyBlock Sandbox / Atlas (4k Discord Members) - Current
+<h6> - SkyBlock Sandbox / Atlas (5k Discord Members) - Current
 <h6> - Affinityy (500 Discord Members) - Current
 <h6> - (PRIVATE) - Current
 <h6> - Mythe Network (400 Discord Members) - Server closed, resigned February 2021
