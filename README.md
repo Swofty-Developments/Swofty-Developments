@@ -6,7 +6,7 @@
 <h6> - Affinityy (500 Discord Members) - Current
 <h6> - (PRIVATE) - Current
 <h6> - Mythe Network (400 Discord Members) - Server closed, resigned February 2021
-<h6> - Hyperlands (16k Discord Members) - Resigned January 2021
+<h6> - Hyperlands (24k Discord Members) - Resigned January 2021
 <h6> - Aimless Server (1.2k Discord Members) - Resigned December 2020
 <h6> - Sunset SMP (Private SMP) - Resigned December 2020
 <h6> - Legend Server (400 Discord Members) - Resigned October 2020
