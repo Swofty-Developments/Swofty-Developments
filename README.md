@@ -2,11 +2,11 @@
   <h1>Hey. I am Swofty,</h1>
 <h4>I mainly work for private orders but I'm always open to cooperation, I also do <a href="https://status.swofty.net">Server Hosting.
 <h5>Previous Work
-<h6> - SkyBlock Sandbox / Atlas (7k Discord Members) - Current
-<h6> - Affinityy (500 Discord Members) - Resigned September 2021
+<h6> - SkyBlock Sandbox / Atlas (7k Discord Members) - Current (Owner) - discord.gg/atlasmc
+<h6> - Hyperlands (24k Discord Members) - Current - discord.gg/hyperlands
 <h6> - (PRIVATE) - Current
+<h6> - Affinityy (500 Discord Members) - Resigned September 2021
 <h6> - Mythe Network (400 Discord Members) - Server closed, resigned February 2021
-<h6> - Hyperlands (24k Discord Members) - Resigned January 2021
 <h6> - Aimless Server (1.2k Discord Members) - Resigned December 2020
 <h6> - Sunset SMP (Private SMP) - Resigned December 2020
 <h6> - Legend Server (400 Discord Members) - Resigned October 2020
