@@ -16,7 +16,7 @@ I own the [Atlas Network](https://the-atlas.net) (9k [discord](https://the-atlas
 ### <img align="right" src="https://i.ytimg.com/vi/_h038UvLsFg/maxresdefault.jpg" width="480" height="360" />
 ```js
 class Swofty extends Programmer {
-	age = 17;
+	age = 19;
 	pronouns = "he / him";
 	languages = [Java, C++, CSharp, Python, Ruby, PHP, Lua, Rust, Haskell]; // order from most used to least
 	current_projects = [AtlasMC, HyperLands];
