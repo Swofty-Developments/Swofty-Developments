@@ -59,5 +59,3 @@ class Swofty extends Programmer {
 	<img src="https://cdn.discordapp.com/attachments/993831002587807785/993894861331759104/Untitled.png">
 	<img src="https://github-readme-stats.vercel.app/api?username=Swofty-Developments&theme=tokyonight">
 </div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Swofty-Developments&repo=AtlasRedisAPI)](https://github.com/anuraghazra/github-readme-stats)
