@@ -60,4 +60,4 @@ class Swofty extends Programmer {
 	<img src="https://github-readme-stats.vercel.app/api?username=Swofty-Developments&theme=tokyonight">
 </div>
 
-(Test)[https://github-readme-stats.vercel.app/api/pin/?username=Swofty-Developments&repo=AtlasRedisAPI]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Swofty-Developments&repo=AtlasRedisAPI)](https://github.com/anuraghazra/github-readme-stats)
