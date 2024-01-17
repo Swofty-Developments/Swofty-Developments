@@ -9,7 +9,7 @@
 
 Hey! I'm [Swofty](https://github.com/Swofty-Developments), an avid Java / C++ programmer with tons of real-world experience. Although most knowledgeable in Java and C++ I am also familiar with PHP, Python, JS, Ruby, and C#.
 
-I own the [Atlas Network](https://the-atlas.net) (9k [discord](https://the-atlas.net) members), where I manage and code alongside a development team of 8 - We have had over 150 thousand unique players log in and our codebase contains just over 1 million lines of code. I am also a developer on [Hyperlands](https://discord.gg/hyperlands) (26k [discord](https://discord.gg/hyperlands) members), one of the highest quality / [biggest](https://stats.hyperlandsmc.net/) MCPE servers on the market.
+I own the [Atlas Network](https://the-atlas.net) (9k [discord](https://the-atlas.net) members), where I manage and code alongside a development team of 8 - We have had over 150 thousand unique players log in and our codebase contains just over 1 million lines of code. I am also a former developer on [Hyperlands](https://discord.gg/hyperlands) (30k [discord](https://discord.gg/hyperlands) members), which was the second [biggest non-featured](https://stats.hyperlandsmc.net/) MCPE server on the market.
 
 <br />
 
