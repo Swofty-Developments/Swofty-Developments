@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://cdn.discordapp.com/attachments/993831002587807785/993890591379292180/Untitled2.png" />
+	<img src="https://github.com/Swofty-Developments/Swofty-Developments/blob/main/images.png?raw=true" />
 	<h6>~ <i>long-time programmer, and owner of atlasmc. ❄️</i> ~</h6>
 	<!-- badges
 	<img src="https://visitor-badge.glitch.me/badge?page_id=yukisnow0.yukisnow0" /> -->
