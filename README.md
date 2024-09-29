@@ -10,7 +10,7 @@
 
 Hey! I'm [Swofty](https://github.com/Swofty-Developments), an avid Java / C++ programmer with tons of real-world experience. Although most knowledgeable in Java and C++ I am also familiar with PHP, Python, JS, Ruby, and C#.
 
-I own the [Atlas Network](https://the-atlas.net) (9k [discord](https://the-atlas.net) members), where I manage and code alongside a development team of 8 - We have had over 150 thousand unique players log in and our codebase contains just over 1 million lines of code. I am also a former developer on [Hyperlands](https://discord.gg/hyperlands) (30k [discord](https://discord.gg/hyperlands) members), which was the second [biggest non-featured](https://stats.hyperlandsmc.net/) MCPE server on the market.
+I own the [Atlas Network](https://discord.gg/paper) (9k [discord](https://discord.gg/paper) members), where I manage and code alongside a development team of 8 - We have had over 150 thousand unique players log in and our codebase contains over 1 million LOC. I am also a former developer on [Hyperlands](https://discord.gg/hyperlands) (30k [discord](https://discord.gg/hyperlands) members), which was the second [biggest non-featured](https://stats.hyperlandsmc.net/) MCPE server on the market.
 
 <br />
 
@@ -37,7 +37,7 @@ class Swofty extends Programmer {
 
 <div>
 	<div align="left">
-		<a href="https://discord.gg/atlasmc">💖 Discord</a><br/>
+		<a href="https://discord.gg/paper">💖 Discord</a><br/>
 		<a href="https://www.youtube.com/channel/UCFy-6HNTQTU3fxQ5qXsmzKw">✨ YouTube</a><br/>
 		<a href="https://github.com/Swofty-Developments">💤 GitHub</a>
 	</div>
