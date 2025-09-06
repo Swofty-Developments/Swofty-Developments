@@ -18,7 +18,7 @@ I own the [Atlas Network](https://discord.gg/paper) (9k [discord](https://discor
 ```js
 class Swofty extends Programmer {
 	pronouns = "he / him";
-	languages = [Java, C++, CSharp, Python, Ruby, PHP, Lua, Rust, Haskell]; // order from most used to least
+	languages = [Java, C++, CSharp, Python, Ruby]; // order from most used to least
 	current_projects = [AtlasMC, HyperLands];
 	conventions = [camelCase, PascalCase]; // properties & functions, classes
 		
