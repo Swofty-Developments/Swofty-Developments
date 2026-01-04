@@ -10,7 +10,7 @@
 
 Hey! I'm [Swofty](https://github.com/Swofty-Developments), an avid Java / C++ programmer with tons of real-world experience. Although most knowledgeable in Java and C++ I am also familiar with PHP, Python, JS, Ruby, and C#.
 
-I own the [Atlas Network](https://discord.gg/paper) (9k [discord](https://discord.gg/paper) members), where I manage and code alongside a development team of 8 - We have had over 150 thousand unique players log in and our codebase contains over 1 million LOC. I am also a former developer on [Hyperlands](https://discord.gg/hyperlands) (30k [discord](https://discord.gg/hyperlands) members), which was the second [biggest non-featured](https://stats.hyperlandsmc.net/) MCPE server on the market.
+I owned the former [Atlas Network](https://discord.swofty.net) (9k [discord](https://discord.swofty.net) members), where I managed and code alongside a development team of 8 - We have had over 150 thousand unique players log in and our codebase contains over 1 million LOC. Nowadays I'm a part of the Open Source community alongside studying at Monash University! Check out my pinned repositories below to see what I've been up to.
 
 <br />
 
@@ -19,13 +19,11 @@ I own the [Atlas Network](https://discord.gg/paper) (9k [discord](https://discor
 class Swofty extends Programmer {
 	pronouns = "he / him";
 	languages = [Java, C++, CSharp, Python, Ruby]; // order from most used to least
-	current_projects = [AtlasMC, HyperLands];
-	conventions = [camelCase, PascalCase]; // properties & functions, classes
 		
 	constructor() {
 		super("Java"); // programmer constructor takes a main language parameter
 		
-		// dm me Swofty#0001
+		// dm me "Swofty"
 		this.comissions = true;
 	}
 	
@@ -37,13 +35,13 @@ class Swofty extends Programmer {
 
 <div>
 	<div align="left">
-		<a href="https://discord.gg/paper">💖 Discord</a><br/>
+		<a href="https://discord.swofty.net">💖 Discord</a><br/>
 		<a href="https://www.youtube.com/channel/UCFy-6HNTQTU3fxQ5qXsmzKw">✨ YouTube</a><br/>
 		<a href="https://github.com/Swofty-Developments">💤 GitHub</a>
 	</div>
 	<div align="right">
 		my current projects<br/>
-		<i>Atlas Network, HyperLands</i>
+		<i>Hypixel SkyBlock Recreation, Open Source/i>
 	</div>
 </div>
 
