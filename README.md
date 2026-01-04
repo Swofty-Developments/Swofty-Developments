@@ -41,7 +41,7 @@ class Swofty extends Programmer {
 	</div>
 	<div align="right">
 		my current projects<br/>
-		<i>Hypixel SkyBlock Recreation, Open Source/i>
+		<i>Hypixel SkyBlock Recreation, Open Source</i>
 	</div>
 </div>
 
