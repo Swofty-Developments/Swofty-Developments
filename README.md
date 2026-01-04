@@ -1,7 +1,7 @@
 <div align="center">
 	<img src="https://github.com/Swofty-Developments/Swofty-Developments/blob/main/swofty_banner_large.png?raw=true" />
 	<h4>My only discord is 'swofty', anyone else is fake.</i>
-	<h6>~ <i>long-time programmer, and owner of atlasmc. ❄️</i> ~</h6>
+	<h6>~ <i>long-time programmer, owner of atlasmc, and student. ❄️</i> ~</h6>
 	<!-- badges
 	<img src="https://visitor-badge.glitch.me/badge?page_id=yukisnow0.yukisnow0" /> -->
 </div>
