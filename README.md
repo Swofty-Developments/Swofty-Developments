@@ -10,7 +10,7 @@
 
 Hey! I'm [Swofty](https://github.com/Swofty-Developments), an avid Java / C++ programmer with tons of real-world experience. Although most knowledgeable in Java and C++ I am also familiar with PHP, Python, JS, Ruby, and C#.
 
-I owned the former [Atlas Network](https://discord.swofty.net) (9k [discord](https://discord.swofty.net) members), where I managed and code alongside a development team of 8 - We have had over 150 thousand unique players log in and our codebase contains over 1 million LOC. Nowadays I'm a part of the Open Source community alongside studying at Monash University! Check out my pinned repositories below to see what I've been up to.
+I owned the former [Atlas Network](https://discord.swofty.net) (9k [discord](https://discord.swofty.net) members), where I managed and innovated alongside a development team of 8 - We have had over 150 thousand unique players log in and our codebase contains over 1 million LOC. Nowadays I'm a part of the Open Source community alongside studying at Monash University! Check out my pinned repositories below to see what I've been up to.
 
 <br />
 
